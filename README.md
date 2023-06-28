@@ -6,7 +6,8 @@
   The ultimate DirectUI tool<br><br>
   <a href="./DuiTool">Source Code</a> | 
   <a href="https://github.com/ahmed605/DuiTool/releases">Downloads</a> | 
-  <a href="https://twitter.com/AhmedWalid605">Contact</a>
+  <a href="https://twitter.com/AhmedWalid605">Contact</a> | 
+  <a href="https://ko-fi.com/ahmedwalid">Donate</a>
   <br><br>
   <img src="Assets/screenshot.png"><br><br>
 </p>
